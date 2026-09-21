@@ -1,0 +1,6 @@
+{
+  "name": "Code Detective",
+  "description": "An interactive educational coding adventure uncovering why students misunderstand programming concepts through prediction, animated execution, and mental model repairs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
